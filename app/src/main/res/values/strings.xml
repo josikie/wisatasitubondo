@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wisata Situbondo</string>
+    <string name="title">Title</string>
+    <string name="location">Location</string>
+    <string name="description">description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="locationname">Lokasi : </string>
+    <string name="beach">Pantai</string>
+    <string name="hotel">Hotel</string>
+    <string name="tourismandwaterpark">Dermaga</string>
+    <string name="waterboom">WaterBoom</string>
+    <string name="logos">Logos</string>
+    <string name="photoSource">Photo Source</string>
+    <string name="Photo">foto</string>
+    <string name="search">Search Spot</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFAFD1</color>
+    <color name="colorPrimaryDark">#D1007D</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="pantaiBackgroundColor">#FFFFFF</color>
+    <color name="pantaiBackgroundAll">#FFFFFF</color>
+    <color name="waterBoomBackgrundAll">#FFFFFF</color>
+    <color name="waterBoomBackground">#FFFFFF</color>
+    <color name="tourismandwaterpark">#FFFFFF</color>
+    <color name="tourismandwaterparkbackgroundAll">#FFFFFF</color>
+    <color name="hotelBackground">#FFFFFF</color>
+    <color name="hotelAllBackground">#FFFFFF</color>
+</resources>
